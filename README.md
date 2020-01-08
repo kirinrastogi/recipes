@@ -1,2 +1,3 @@
-# recipes
-🌱 Vegan Recipes | recipes.kirin.design
+# My Recipe Book
+
+No bullshit, just vegan recipes.
