@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Meatballs
-tags: cooking, lunch, dinner
+tags:
+  - cooking
+  - lunch
+  - dinner
 ---
 
 # Meatballs
