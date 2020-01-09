@@ -1,5 +1,6 @@
 ---
-permalink: /brownies
+title: brownies
+permalink: /:pages
 ---
 
 # Fudgy Brownies
