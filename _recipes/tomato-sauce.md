@@ -1,7 +1,11 @@
 ---
 layout: default
 title: Tomato Sauce
-tags: cooking, lunch, dinner, instant-pot
+tags: 
+  - cooking
+  - lunch
+  - dinner
+  - instant-pot
 ---
 
 # Tomato Sauce
