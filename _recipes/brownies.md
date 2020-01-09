@@ -19,7 +19,7 @@ layout: default
 
 ## Ingredients
 
-- 1 cup (8oz/227g) imitation butter, melted and cooled
+- 1 cup (8oz/227g) imitation butter, or oil, melted and cooled
 - 1 cup plus 2 tablespoons (6 1/4oz/184g) brown sugar
 - 1 cup plus 2 tablespoons (8 1/4oz/244g) white sugar
 - 4 tbsp chia seeds, ground
