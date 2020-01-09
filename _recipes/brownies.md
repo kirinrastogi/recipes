@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Fudgy Brownies
+tags: baking
 ---
+
+{{page.tags | capitalize | join: ', '}}
 
 # Fudgy Brownies
 
