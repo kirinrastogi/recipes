@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fudgy Brownies
-permalink: /:basename
+permalink: /:title
 ---
 
 # Fudgy Brownies
