@@ -4,7 +4,7 @@ No bullshit, just vegan recipes.
 
 ---
 
-{% assign sorted_recipes = (recipes | sort: 'title') %}
+{% assign sorted_recipes = (site.recipes | sort: 'title') %}
 
 ### Baking
 
