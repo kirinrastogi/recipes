@@ -4,12 +4,10 @@ No bullshit, just vegan recipes.
 
 ---
 
-{% assign sorted_recipes = (site.recipes | sort: 'title') %}
-
 ### Baking
 
 <ul>
-  {% for recipe in sorted_recipes %}
+  {% for recipe in site.recipes %}
     {% if recipe.tags contains 'baking' %}
       <li>
         <a href="{{ recipe.url }}">{{ recipe.title }}</a>
