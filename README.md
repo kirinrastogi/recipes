@@ -3,9 +3,13 @@
 No bullshit, just vegan recipes.
 
 <ul>
-  {% for recipe in site.recipes %}
-    <li>
-      <a href="{{ recipe.url }}">{{ recipe.title }}</a>
-    </li>
+  <p>Baking</p>
+  {% assign sorted_recipes = (site.pages | sort: 'title') %}
+  {% for recipe in sorted_recipes %}
+    {% if recipe.tags contains 'baking' %}
+      <li>
+        <a href="{{ recipe.url }}">{{ recipe.title }}</a>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
