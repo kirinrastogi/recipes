@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Fudgy Brownies
-tags: baking, dessert
+tags:
+  - baking
+  - dessert
 ---
 
 # Fudgy Brownies
