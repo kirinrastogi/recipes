@@ -2,7 +2,9 @@
 
 No bullshit, just vegan recipes.
 
-{% assign sorted_recipes = (site.pages | sort: 'title') %}
+---
+
+{% assign sorted_recipes = (recipes | sort: 'title') %}
 
 ### Baking
 
