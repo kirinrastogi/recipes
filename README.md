@@ -2,9 +2,11 @@
 
 No bullshit, just vegan recipes.
 
+{% assign sorted_recipes = (site.pages | sort: 'title') %}
+
+### Baking
+
 <ul>
-  <p>Baking</p>
-  {% assign sorted_recipes = (site.pages | sort: 'title') %}
   {% for recipe in sorted_recipes %}
     {% if recipe.tags contains 'baking' %}
       <li>
