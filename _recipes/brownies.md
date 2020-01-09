@@ -12,7 +12,10 @@ layout: default
 
 ## ⏰ Time
 
-1hr active + 3 hrs for cooling
+- 20 mins mixing
+- 40 mins baking
+- 3 hours cooling
+
 
 ## Ingredients
 
