@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Pancakes
-tags: cooking, breakfast
+tags:
+  - cooking
+  - breakfast
 ---
 
 # Pancakes
