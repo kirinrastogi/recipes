@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fudgy Brownies
-tags: baking
+tags: baking, uwu
 ---
 
 {{page.tags | capitalize | join: ', '}}
