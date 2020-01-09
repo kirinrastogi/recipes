@@ -11,12 +11,13 @@ title: Fudgy Brownies
 - If you overmix the batter after the flour is added, your brownies will be cakey and tough instead of fudgy
 - Brownies keep cooking for a while after you take them out, it is better to undercook them
 
+### Serves: 16
+
 ## ⏰ Time
 
 - 20 mins mixing
 - 40 mins baking
 - 3 hours cooling
-
 
 ## Ingredients
 
