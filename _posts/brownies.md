@@ -1,4 +1,5 @@
 ---
+layout: post
 permalink: /:basename
 ---
 
