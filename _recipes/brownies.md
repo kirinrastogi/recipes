@@ -4,8 +4,6 @@ title: Fudgy Brownies
 tags: baking, dessert
 ---
 
-{{page.tags | capitalize | join: ', '}}
-
 # Fudgy Brownies
 
 ## Notes
