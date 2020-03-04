@@ -31,5 +31,5 @@ tags:
 
 ## Directions
 
-1. Sift the flour, sugar, baking powder, and salt into a large bowl. Add in the soy milk and oil, and fold the mixture onto itself until just combined.
+1. Sift the flour, sugar, baking powder, and salt into a large bowl. Add in the soy milk, oil, and mashed banana. Fold the mixture onto itself until just combined.
 1. Griddle them duh
