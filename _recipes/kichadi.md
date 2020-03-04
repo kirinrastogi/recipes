@@ -11,7 +11,10 @@ tags:
 # Kichadi
 
 ## Notes
+
 - The imitation ground meat is optional
+
+### Serves: 8
 
 ## ⏰ Time
 
