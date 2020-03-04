@@ -26,7 +26,7 @@ tags:
 - 1 cup vegan butter or margarine
 - 1 cup sugar
 - 1 cup packed brown sugar
-- 2 Tbsp ground chia seeds + 6 Tbsp water
+- 2 Tbsp chia seeds + 6 Tbsp water
 - 2 tsp vanilla extract
 - 1 tsp baking soda
 - 2 tsp hot water
