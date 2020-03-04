@@ -31,7 +31,7 @@ evolving vegan recipe book
 </ul>
 
 
-### Instant Pot Friendly
+### Instant Pot
 
 <ul>
   {% for recipe in sorted_recipes %}
