@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fudgy Brownies
+title: Hummus
 tags:
   - cooking
 ---
