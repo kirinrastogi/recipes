@@ -25,6 +25,7 @@ tags:
 - 1 1/4 cups flour (187.5g)
 - 2 Tbsp sugar
 - 2 tsp baking powder
+- 1/2 tsp salt
 - 1 1/4 cups soy milk
 - 1 Tbsp oil
 - 1 banana, mashed
